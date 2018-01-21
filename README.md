@@ -1,2 +1,4 @@
 # SocialCrawling
 capturing social profile details like email id on the action on the social groups. Profile tracking in the acount of activity in social groups. 
+This product can able to scrap the details on the web as per the filters given.
+Example: Each and every company needs marketing for their products. They have to reach more people who are in need and intrested in their products, how this whould be done ? Each and every company will have their groups in social networking sites like FACEBOOK, TWITTER and some other sites. So, if we run this tool with the inputs (groupname) on any site it should able to scrap the email Id's of the users who liked that particular company's group. After getting those intrested candidate's list a marketer can able to target the user by sending good deals in small scale and large scale.
